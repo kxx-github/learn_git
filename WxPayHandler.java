@@ -41,7 +41,7 @@ public class WxPayHandler {
 	private static final String CHARSET = "UTF-8";
 	private static final String TENURL = "https://api.mch.weixin.qq.com/pay/unifiedorder";
 	private SortedMap<String, String> packageParams = new TreeMap<String, String>();
-	/** Token获取网关地址地址 */
+	/** Token获取网关地址地址23749872398479283749827398472398472987497392 */
 	private String tokenUrl;
 	/** 预支付网关url地址 */
 	private String gateUrl;
