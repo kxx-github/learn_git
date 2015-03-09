@@ -52,7 +52,7 @@ public class WxPayHandler {
 	private String appkey;
 	private String partnerkey;
 	private String appsecret;
-	// 支付密钥
+	// 支付密钥123
 	private String key = "e6738551519221186fc3fc66195cb088";
 	// 商户号
 	private String mchid;
